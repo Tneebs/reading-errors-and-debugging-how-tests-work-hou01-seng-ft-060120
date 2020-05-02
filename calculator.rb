@@ -1,5 +1,6 @@
 first_number = 10 
 second_number = 1.5
 
-first_number 
+sum = first_number + second_number
+
 # Add your variables here
